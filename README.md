@@ -1,4 +1,4 @@
-# vue2-template
+# Dapp-demo
 
 ## Project setup
 ```
